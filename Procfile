@@ -1,0 +1,1 @@
+worker: not bot.js
