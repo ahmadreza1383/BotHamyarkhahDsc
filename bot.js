@@ -65,4 +65,4 @@ bot.on('message' , message =>{
 
 
 })
-bot.login(process.env.DJS_TOKEN);
+bot.login(process.env.BOT_TOKEN);
