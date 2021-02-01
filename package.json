@@ -1,0 +1,15 @@
+{
+    "name": "discordbot",
+    "version": "1.0.0",
+    "description": "one discord bot",
+    "main": "bot.js",
+    "dependencies": {
+      "discord.js": "^12.5.1"
+    },
+    
+    "scripts": {
+      "start": "node bot.js",
+      "request": "2.81.0"
+    }
+    
+  }
