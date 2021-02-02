@@ -8,8 +8,10 @@
     },
     
     "scripts": {
-      "start": "node bot.js"
-      
+      "start": "node bot.js",
+      "discord.js": "^12.5.1"
     }
+   "author": "AhmadReza",
+  "license": "ISC"
     
   }
