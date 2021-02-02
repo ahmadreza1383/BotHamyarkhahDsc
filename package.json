@@ -8,8 +8,8 @@
     },
     
     "scripts": {
-      "start": "node bot.js",
-      "request": "2.81.0"
+      "start": "node bot.js"
+      
     }
     
   }
